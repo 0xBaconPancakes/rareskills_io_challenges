@@ -9,3 +9,20 @@ out/
 
 # Dotenv file
 .env
+
+node_modules
+coverage
+coverage.json
+typechain
+typechain-types
+
+#Hardhat files
+cache
+artifacts
+
+.DC_Store
+/cache_hardhat/
+/forge-cache/
+.github
+.idea
+.vscode

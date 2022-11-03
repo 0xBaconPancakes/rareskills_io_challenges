@@ -1,0 +1,165 @@
+{
+  "_format": "hh-sol-cache-2",
+  "files": {
+    "/Users/matouspistora/Projects/rareskills_io_challenges/src/Steal.sol": {
+      "lastModificationDate": 1667466005018,
+      "contentHash": "0c7f1bc17ee4243db9893d55b71078e7",
+      "sourceName": "src/Steal.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          },
+          "libraries": {
+            "": {
+              "__CACHE_BREAKER__": "0x0000000000000031363637343836323134373330"
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.17"
+      ],
+      "artifacts": [
+        "Steal"
+      ]
+    },
+    "/Users/matouspistora/Projects/rareskills_io_challenges/src/StealHelper.sol": {
+      "lastModificationDate": 1667464323490,
+      "contentHash": "c63a2cd6dcd2b782b71a0dc79d4b5934",
+      "sourceName": "src/StealHelper.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          },
+          "libraries": {
+            "": {
+              "__CACHE_BREAKER__": "0x0000000000000031363637343836323134373330"
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.17"
+      ],
+      "artifacts": [
+        "StealHelper"
+      ]
+    },
+    "/Users/matouspistora/Projects/rareskills_io_challenges/src/StealV2.sol": {
+      "lastModificationDate": 1667464323585,
+      "contentHash": "42fd2517a34ff8bc237144494ba0d2d8",
+      "sourceName": "src/StealV2.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          },
+          "libraries": {
+            "": {
+              "__CACHE_BREAKER__": "0x0000000000000031363637343836323134373330"
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.17"
+      ],
+      "artifacts": [
+        "StealV2"
+      ]
+    },
+    "/Users/matouspistora/Projects/rareskills_io_challenges/src/StealV2Attack.sol": {
+      "lastModificationDate": 1667464323594,
+      "contentHash": "ef0191fc743dc12d619b8ac64c41440a",
+      "sourceName": "src/StealV2Attack.sol",
+      "solcConfig": {
+        "version": "0.8.17",
+        "settings": {
+          "optimizer": {
+            "enabled": false,
+            "runs": 200
+          },
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          },
+          "libraries": {
+            "": {
+              "__CACHE_BREAKER__": "0x0000000000000031363637343836323134373330"
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "0.8.17"
+      ],
+      "artifacts": [
+        "StealV2Attack"
+      ]
+    }
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "name": "rareskills_io_challenges",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomicfoundation/hardhat-toolbox": "^2.0.0",
+    "@types/chai": "^4.3.3",
+    "@types/mocha": "^10.0.0",
+    "@types/node": "^18.11.9",
+    "chai": "^4.3.6",
+    "hardhat": "^2.12.2",
+    "hardhat-preprocessor": "^0.1.5",
+    "ts-node": "^10.9.1",
+    "typescript": "^4.8.4"
+  }
+}
