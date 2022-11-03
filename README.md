@@ -1,13 +1,18 @@
-# Sample Hardhat Project
+# RareSkills challenges
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Project implementing RareSkills challenges. Uses both Foundry and Hardhat.
 
-Try running some of the following tasks:
+## Prerequisites
+ - [Foundry](https://book.getfoundry.sh/getting-started/installation)
+ - [Hardhat](https://hardhat.org/hardhat-runner/docs/getting-started#installation)
 
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
+## Running tests
+
+#### Forge
+```forge test```
+
+#### Hardhat
+```npx hardhat test```
+
+## ToDo
+- run tests on forked polygon mainnet with [actual contract](https://polygonscan.com/address/0x102354ab8dc1f6128512ce995e16b25485f996ca) before it was drained in block 34078716 
